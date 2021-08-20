@@ -1,3 +1,8 @@
+# dataset
+.vscode/
+dac2021/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -18,10 +23,6 @@ lib/
 lib64/
 parts/
 sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
